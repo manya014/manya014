@@ -12,7 +12,7 @@ I'm a Computer Science and Engineering student with a passion for building impac
 ## 🧠 Tech Stack
 
 **Languages**  
-`C` | `C++` | `JavaScript` | `Java`
+`C` | `C++` | `JavaScript` | `Java` | `Python`
 
 **Frontend**  
 `HTML` | `CSS` | `React.js` | `Next.js`
