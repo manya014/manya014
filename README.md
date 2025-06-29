@@ -1,40 +1,47 @@
-# 👋 Hi, I'm Manya Rawat
+# Hello, Manya here 
 
-I'm a Computer Science and Engineering student with a passion for building impactful tech solutions, solving real-world problems, and constantly sharpening my skills in full-stack development and algorithms.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
-## 🎯 Aspiring Software Developer | MERN Stack Enthusiast
-
-- 💡 I love solving problems using **Data Structures and Algorithms**
-- 🎯 Strong interest in **Web Development** and building intuitive user experiences
-
----
-
-## 🧠 Tech Stack
-
-**Languages**  
-`C` | `C++` | `JavaScript` | `Java` | `Python`
-
-**Frontend**  
-`HTML` | `CSS` | `React.js` | `Next.js`
-
-**Backend**  
-`Node.js` | `Express.js`
-
-**Database**  
-`MongoDB` | `SQL`
-
-**Tools & Platforms**  
-`Git` | `GitHub` | `Postman` | `VS Code`
+### 🧠 AI Explorer
 
 ---
 
-## 🔗 Coding Profiles
-
-- 🚀 [Codeforces](https://codeforces.com/profile/manyarawat15)
-- 🔥 [CodeChef](https://www.codechef.com/users/manyarawat15)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ---
+
+## 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🛠 Frameworks, Tools & Platforms
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+*Let's build something amazing together! 🚀*
+
 
 ## 📈 GitHub Stats
 
